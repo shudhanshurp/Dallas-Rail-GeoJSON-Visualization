@@ -1,0 +1,3303 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03953,
+                        32.90669
+                    ],
+                    [
+                        -97.03954,
+                        32.90812
+                    ],
+                    [
+                        -97.03954,
+                        32.90819
+                    ],
+                    [
+                        -97.03953,
+                        32.90948
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26761,
+                "klass": "Section",
+                "length": 309,
+                "osm_id": 911026406,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\"}",
+                "osm_metadata": "{\"version\":1}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03953,
+                        32.90948
+                    ],
+                    [
+                        -97.03953,
+                        32.91006
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26760,
+                "klass": "Section",
+                "length": 65,
+                "osm_id": 911026405,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":1}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03953,
+                        32.91006
+                    ],
+                    [
+                        -97.03954,
+                        32.9107
+                    ],
+                    [
+                        -97.03952,
+                        32.91108
+                    ],
+                    [
+                        -97.03949,
+                        32.91344
+                    ],
+                    [
+                        -97.03946,
+                        32.91399
+                    ],
+                    [
+                        -97.03941,
+                        32.91455
+                    ],
+                    [
+                        -97.03938,
+                        32.91482
+                    ],
+                    [
+                        -97.03937,
+                        32.9151
+                    ],
+                    [
+                        -97.0393,
+                        32.91592
+                    ],
+                    [
+                        -97.03926,
+                        32.91634
+                    ],
+                    [
+                        -97.03922,
+                        32.91674
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26756,
+                "klass": "Section",
+                "length": 741,
+                "osm_id": 367320658,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":6}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03922,
+                        32.91674
+                    ],
+                    [
+                        -97.03902,
+                        32.91916
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26755,
+                "klass": "Section",
+                "length": 270,
+                "osm_id": 367320655,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03902,
+                        32.91916
+                    ],
+                    [
+                        -97.03891,
+                        32.92077
+                    ],
+                    [
+                        -97.03888,
+                        32.92113
+                    ],
+                    [
+                        -97.03881,
+                        32.92146
+                    ],
+                    [
+                        -97.03871,
+                        32.92181
+                    ],
+                    [
+                        -97.03858,
+                        32.92213
+                    ],
+                    [
+                        -97.03841,
+                        32.92246
+                    ],
+                    [
+                        -97.03819,
+                        32.92278
+                    ],
+                    [
+                        -97.03799,
+                        32.92302
+                    ],
+                    [
+                        -97.03773,
+                        32.92331
+                    ],
+                    [
+                        -97.03745,
+                        32.92357
+                    ],
+                    [
+                        -97.03714,
+                        32.9238
+                    ],
+                    [
+                        -97.03683,
+                        32.92399
+                    ],
+                    [
+                        -97.03648,
+                        32.92418
+                    ],
+                    [
+                        -97.03612,
+                        32.92434
+                    ],
+                    [
+                        -97.03575,
+                        32.92448
+                    ],
+                    [
+                        -97.03538,
+                        32.92461
+                    ],
+                    [
+                        -97.03499,
+                        32.92472
+                    ],
+                    [
+                        -97.03453,
+                        32.92484
+                    ],
+                    [
+                        -97.03396,
+                        32.92496
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26752,
+                "klass": "Section",
+                "length": 892,
+                "osm_id": 488594966,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03396,
+                        32.92496
+                    ],
+                    [
+                        -97.03338,
+                        32.92506
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26753,
+                "klass": "Section",
+                "length": 55,
+                "osm_id": 488594967,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.03338,
+                        32.92506
+                    ],
+                    [
+                        -97.0328,
+                        32.92512
+                    ],
+                    [
+                        -97.03221,
+                        32.92516
+                    ],
+                    [
+                        -97.03162,
+                        32.92516
+                    ],
+                    [
+                        -97.03107,
+                        32.92514
+                    ],
+                    [
+                        -97.03052,
+                        32.9251
+                    ],
+                    [
+                        -97.03008,
+                        32.92505
+                    ],
+                    [
+                        -97.02966,
+                        32.92498
+                    ],
+                    [
+                        -97.02908,
+                        32.92486
+                    ],
+                    [
+                        -97.02853,
+                        32.92471
+                    ],
+                    [
+                        -97.02805,
+                        32.92456
+                    ],
+                    [
+                        -97.02758,
+                        32.92439
+                    ],
+                    [
+                        -97.02712,
+                        32.92421
+                    ],
+                    [
+                        -97.02666,
+                        32.924
+                    ],
+                    [
+                        -97.02617,
+                        32.92374
+                    ],
+                    [
+                        -97.02569,
+                        32.92345
+                    ],
+                    [
+                        -97.02526,
+                        32.92316
+                    ],
+                    [
+                        -97.02486,
+                        32.92287
+                    ],
+                    [
+                        -97.02446,
+                        32.92254
+                    ],
+                    [
+                        -97.0232,
+                        32.92143
+                    ],
+                    [
+                        -97.02147,
+                        32.9199
+                    ],
+                    [
+                        -97.0205,
+                        32.91909
+                    ],
+                    [
+                        -97.02011,
+                        32.91876
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26743,
+                "klass": "Section",
+                "length": 1499,
+                "osm_id": 367320649,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.02011,
+                        32.91876
+                    ],
+                    [
+                        -97.01911,
+                        32.918
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26745,
+                "klass": "Section",
+                "length": 126,
+                "osm_id": 367320651,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.01911,
+                        32.918
+                    ],
+                    [
+                        -97.01834,
+                        32.91744
+                    ],
+                    [
+                        -97.01795,
+                        32.91715
+                    ],
+                    [
+                        -97.01759,
+                        32.91688
+                    ],
+                    [
+                        -97.01716,
+                        32.91655
+                    ],
+                    [
+                        -97.01673,
+                        32.9162
+                    ],
+                    [
+                        -97.01632,
+                        32.91585
+                    ],
+                    [
+                        -97.01434,
+                        32.91417
+                    ],
+                    [
+                        -97.01422,
+                        32.91407
+                    ],
+                    [
+                        -97.01311,
+                        32.91313
+                    ],
+                    [
+                        -97.01278,
+                        32.91285
+                    ],
+                    [
+                        -97.01241,
+                        32.91254
+                    ],
+                    [
+                        -97.01208,
+                        32.91224
+                    ],
+                    [
+                        -97.01164,
+                        32.91182
+                    ],
+                    [
+                        -97.01121,
+                        32.91136
+                    ],
+                    [
+                        -97.0108,
+                        32.9109
+                    ],
+                    [
+                        -97.01044,
+                        32.91045
+                    ],
+                    [
+                        -97.00923,
+                        32.90883
+                    ],
+                    [
+                        -97.00893,
+                        32.90842
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26741,
+                "klass": "Section",
+                "length": 1434,
+                "osm_id": 300823164,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":5}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.00893,
+                        32.90842
+                    ],
+                    [
+                        -97.00821,
+                        32.90745
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26744,
+                "klass": "Section",
+                "length": 127,
+                "osm_id": 367320650,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -97.00821,
+                        32.90745
+                    ],
+                    [
+                        -97.00781,
+                        32.90694
+                    ],
+                    [
+                        -97.00741,
+                        32.90642
+                    ],
+                    [
+                        -97.00709,
+                        32.90599
+                    ],
+                    [
+                        -97.00678,
+                        32.90557
+                    ],
+                    [
+                        -97.0064,
+                        32.90507
+                    ],
+                    [
+                        -97.00598,
+                        32.90455
+                    ],
+                    [
+                        -97.00554,
+                        32.90403
+                    ],
+                    [
+                        -97.00515,
+                        32.9036
+                    ],
+                    [
+                        -97.00475,
+                        32.90316
+                    ],
+                    [
+                        -97.00434,
+                        32.90274
+                    ],
+                    [
+                        -97.00395,
+                        32.90236
+                    ],
+                    [
+                        -97.00356,
+                        32.902
+                    ],
+                    [
+                        -97.00312,
+                        32.90159
+                    ],
+                    [
+                        -97.00262,
+                        32.90116
+                    ],
+                    [
+                        -97.0021,
+                        32.90073
+                    ],
+                    [
+                        -97.00162,
+                        32.90035
+                    ],
+                    [
+                        -97.00061,
+                        32.89958
+                    ],
+                    [
+                        -96.99836,
+                        32.89788
+                    ],
+                    [
+                        -96.99273,
+                        32.89363
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26742,
+                "klass": "Section",
+                "length": 2121,
+                "osm_id": 331879102,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.99273,
+                        32.89363
+                    ],
+                    [
+                        -96.99254,
+                        32.89348
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26750,
+                "klass": "Section",
+                "length": 24,
+                "osm_id": 488594968,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.99254,
+                        32.89348
+                    ],
+                    [
+                        -96.9921,
+                        32.8931
+                    ],
+                    [
+                        -96.99171,
+                        32.89273
+                    ],
+                    [
+                        -96.99134,
+                        32.89235
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26751,
+                "klass": "Section",
+                "length": 168,
+                "osm_id": 488594969,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.99134,
+                        32.89235
+                    ],
+                    [
+                        -96.99082,
+                        32.89184
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26726,
+                "klass": "Section",
+                "length": 74,
+                "osm_id": 331879104,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.99082,
+                        32.89184
+                    ],
+                    [
+                        -96.98994,
+                        32.89095
+                    ],
+                    [
+                        -96.9891,
+                        32.89017
+                    ],
+                    [
+                        -96.98848,
+                        32.88965
+                    ],
+                    [
+                        -96.98741,
+                        32.88878
+                    ],
+                    [
+                        -96.98733,
+                        32.88872
+                    ],
+                    [
+                        -96.98703,
+                        32.88847
+                    ],
+                    [
+                        -96.98691,
+                        32.88837
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26727,
+                "klass": "Section",
+                "length": 531,
+                "osm_id": 421516548,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2014,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.98691,
+                        32.88837
+                    ],
+                    [
+                        -96.98597,
+                        32.8876
+                    ],
+                    [
+                        -96.98573,
+                        32.88741
+                    ],
+                    [
+                        -96.98522,
+                        32.88698
+                    ],
+                    [
+                        -96.98507,
+                        32.88686
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26724,
+                "klass": "Section",
+                "length": 241,
+                "osm_id": 202346006,
+                "osm_tags": "{\"name\":\"DART Orange Line\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":6}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.98507,
+                        32.88686
+                    ],
+                    [
+                        -96.98301,
+                        32.88518
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26725,
+                "klass": "Section",
+                "length": 268,
+                "osm_id": 202346011,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.98301,
+                        32.88518
+                    ],
+                    [
+                        -96.98254,
+                        32.88475
+                    ],
+                    [
+                        -96.98215,
+                        32.88437
+                    ],
+                    [
+                        -96.98185,
+                        32.88404
+                    ],
+                    [
+                        -96.98154,
+                        32.88369
+                    ],
+                    [
+                        -96.98125,
+                        32.88333
+                    ],
+                    [
+                        -96.9808,
+                        32.88271
+                    ],
+                    [
+                        -96.9805,
+                        32.88224
+                    ],
+                    [
+                        -96.9802,
+                        32.88173
+                    ],
+                    [
+                        -96.98001,
+                        32.88136
+                    ],
+                    [
+                        -96.97961,
+                        32.88053
+                    ],
+                    [
+                        -96.97891,
+                        32.87911
+                    ],
+                    [
+                        -96.9784,
+                        32.87804
+                    ],
+                    [
+                        -96.97806,
+                        32.87736
+                    ],
+                    [
+                        -96.9779,
+                        32.87705
+                    ],
+                    [
+                        -96.97774,
+                        32.8768
+                    ],
+                    [
+                        -96.97756,
+                        32.87659
+                    ],
+                    [
+                        -96.97739,
+                        32.87643
+                    ],
+                    [
+                        -96.97725,
+                        32.87632
+                    ],
+                    [
+                        -96.97701,
+                        32.87615
+                    ],
+                    [
+                        -96.97673,
+                        32.87599
+                    ],
+                    [
+                        -96.97643,
+                        32.87585
+                    ],
+                    [
+                        -96.9761,
+                        32.87575
+                    ],
+                    [
+                        -96.97579,
+                        32.87567
+                    ],
+                    [
+                        -96.97481,
+                        32.87543
+                    ],
+                    [
+                        -96.97439,
+                        32.87534
+                    ],
+                    [
+                        -96.97409,
+                        32.8753
+                    ],
+                    [
+                        -96.97377,
+                        32.87529
+                    ],
+                    [
+                        -96.97094,
+                        32.8753
+                    ],
+                    [
+                        -96.97076,
+                        32.87531
+                    ],
+                    [
+                        -96.97051,
+                        32.87531
+                    ],
+                    [
+                        -96.96991,
+                        32.87529
+                    ],
+                    [
+                        -96.96852,
+                        32.87521
+                    ],
+                    [
+                        -96.96813,
+                        32.8752
+                    ],
+                    [
+                        -96.96792,
+                        32.8752
+                    ],
+                    [
+                        -96.96777,
+                        32.8752
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26721,
+                "klass": "Section",
+                "length": 2043,
+                "osm_id": 421516550,
+                "osm_tags": "{\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.96777,
+                        32.8752
+                    ],
+                    [
+                        -96.96645,
+                        32.8752
+                    ],
+                    [
+                        -96.9654,
+                        32.87519
+                    ],
+                    [
+                        -96.96389,
+                        32.87519
+                    ],
+                    [
+                        -96.96363,
+                        32.8752
+                    ],
+                    [
+                        -96.96337,
+                        32.87521
+                    ],
+                    [
+                        -96.96312,
+                        32.87524
+                    ],
+                    [
+                        -96.96286,
+                        32.87528
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26722,
+                "klass": "Section",
+                "length": 461,
+                "osm_id": 202346013,
+                "osm_tags": "{\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":5}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.96286,
+                        32.87528
+                    ],
+                    [
+                        -96.96256,
+                        32.87534
+                    ],
+                    [
+                        -96.96229,
+                        32.87541
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26723,
+                "klass": "Section",
+                "length": 55,
+                "osm_id": 202346009,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.96229,
+                        32.87541
+                    ],
+                    [
+                        -96.9595,
+                        32.87626
+                    ],
+                    [
+                        -96.95926,
+                        32.87635
+                    ],
+                    [
+                        -96.95906,
+                        32.87646
+                    ],
+                    [
+                        -96.95886,
+                        32.8766
+                    ],
+                    [
+                        -96.95869,
+                        32.87675
+                    ],
+                    [
+                        -96.95854,
+                        32.87693
+                    ],
+                    [
+                        -96.95841,
+                        32.87713
+                    ],
+                    [
+                        -96.95835,
+                        32.87726
+                    ],
+                    [
+                        -96.95833,
+                        32.87734
+                    ],
+                    [
+                        -96.9583,
+                        32.87743
+                    ],
+                    [
+                        -96.95828,
+                        32.8775
+                    ],
+                    [
+                        -96.95825,
+                        32.87763
+                    ],
+                    [
+                        -96.95809,
+                        32.8791
+                    ],
+                    [
+                        -96.95804,
+                        32.87952
+                    ],
+                    [
+                        -96.95794,
+                        32.8801
+                    ],
+                    [
+                        -96.95792,
+                        32.8804
+                    ],
+                    [
+                        -96.95786,
+                        32.88063
+                    ],
+                    [
+                        -96.95778,
+                        32.8808
+                    ],
+                    [
+                        -96.95769,
+                        32.88098
+                    ],
+                    [
+                        -96.95758,
+                        32.88116
+                    ],
+                    [
+                        -96.95742,
+                        32.88134
+                    ],
+                    [
+                        -96.95723,
+                        32.88152
+                    ],
+                    [
+                        -96.95706,
+                        32.88165
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26716,
+                "klass": "Section",
+                "length": 951,
+                "osm_id": 202346004,
+                "osm_tags": "{\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.95706,
+                        32.88165
+                    ],
+                    [
+                        -96.95691,
+                        32.88174
+                    ],
+                    [
+                        -96.95675,
+                        32.88181
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26717,
+                "klass": "Section",
+                "length": 35,
+                "osm_id": 202346012,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"1\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.95675,
+                        32.88181
+                    ],
+                    [
+                        -96.95652,
+                        32.8819
+                    ],
+                    [
+                        -96.9563,
+                        32.88196
+                    ],
+                    [
+                        -96.95603,
+                        32.88201
+                    ],
+                    [
+                        -96.95575,
+                        32.88204
+                    ],
+                    [
+                        -96.95457,
+                        32.8821
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26719,
+                "klass": "Section",
+                "length": 208,
+                "osm_id": 421516559,
+                "osm_tags": "{\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.95457,
+                        32.8821
+                    ],
+                    [
+                        -96.95375,
+                        32.88214
+                    ],
+                    [
+                        -96.9536,
+                        32.88215
+                    ],
+                    [
+                        -96.95323,
+                        32.88217
+                    ],
+                    [
+                        -96.95293,
+                        32.88218
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26718,
+                "klass": "Section",
+                "length": 153,
+                "osm_id": 202346016,
+                "osm_tags": "{\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":5}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.95293,
+                        32.88218
+                    ],
+                    [
+                        -96.95263,
+                        32.88217
+                    ],
+                    [
+                        -96.95236,
+                        32.88216
+                    ],
+                    [
+                        -96.95206,
+                        32.88215
+                    ],
+                    [
+                        -96.95173,
+                        32.88212
+                    ],
+                    [
+                        -96.95142,
+                        32.88208
+                    ],
+                    [
+                        -96.95111,
+                        32.88204
+                    ],
+                    [
+                        -96.95078,
+                        32.88197
+                    ],
+                    [
+                        -96.95046,
+                        32.8819
+                    ],
+                    [
+                        -96.95015,
+                        32.88182
+                    ],
+                    [
+                        -96.94922,
+                        32.88152
+                    ],
+                    [
+                        -96.94598,
+                        32.88049
+                    ],
+                    [
+                        -96.94566,
+                        32.88037
+                    ],
+                    [
+                        -96.94534,
+                        32.88026
+                    ],
+                    [
+                        -96.94461,
+                        32.87996
+                    ],
+                    [
+                        -96.94398,
+                        32.87967
+                    ],
+                    [
+                        -96.94196,
+                        32.87876
+                    ],
+                    [
+                        -96.94112,
+                        32.87837
+                    ],
+                    [
+                        -96.94087,
+                        32.87824
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26712,
+                "klass": "Section",
+                "length": 1222,
+                "osm_id": 202346002,
+                "osm_tags": "{\"bridge\":\"yes\",\"layer\":\"2\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.94087,
+                        32.87824
+                    ],
+                    [
+                        -96.94053,
+                        32.87806
+                    ],
+                    [
+                        -96.93918,
+                        32.87731
+                    ],
+                    [
+                        -96.93906,
+                        32.87725
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26714,
+                "klass": "Section",
+                "length": 202,
+                "osm_id": 421516561,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.93906,
+                        32.87725
+                    ],
+                    [
+                        -96.93795,
+                        32.87663
+                    ],
+                    [
+                        -96.93773,
+                        32.87651
+                    ],
+                    [
+                        -96.93714,
+                        32.87619
+                    ],
+                    [
+                        -96.9369,
+                        32.87606
+                    ],
+                    [
+                        -96.93669,
+                        32.87593
+                    ],
+                    [
+                        -96.93649,
+                        32.87579
+                    ],
+                    [
+                        -96.93631,
+                        32.87563
+                    ],
+                    [
+                        -96.93614,
+                        32.87543
+                    ],
+                    [
+                        -96.936,
+                        32.87524
+                    ],
+                    [
+                        -96.93588,
+                        32.87503
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26713,
+                "klass": "Section",
+                "length": 393,
+                "osm_id": 384064717,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.93588,
+                        32.87503
+                    ],
+                    [
+                        -96.93584,
+                        32.87492
+                    ],
+                    [
+                        -96.93581,
+                        32.87482
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26715,
+                "klass": "Section",
+                "length": 23,
+                "osm_id": 384064684,
+                "osm_tags": "{\"bridge\":\"yes\",\"electrified\":\"contact_line\",\"layer\":\"1\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.93581,
+                        32.87482
+                    ],
+                    [
+                        -96.93577,
+                        32.87465
+                    ],
+                    [
+                        -96.93566,
+                        32.87413
+                    ],
+                    [
+                        -96.93564,
+                        32.87404
+                    ],
+                    [
+                        -96.93562,
+                        32.87392
+                    ],
+                    [
+                        -96.93544,
+                        32.8732
+                    ],
+                    [
+                        -96.93494,
+                        32.87096
+                    ],
+                    [
+                        -96.93486,
+                        32.87058
+                    ],
+                    [
+                        -96.93484,
+                        32.87048
+                    ],
+                    [
+                        -96.93481,
+                        32.87035
+                    ],
+                    [
+                        -96.9348,
+                        32.87026
+                    ],
+                    [
+                        -96.93478,
+                        32.87018
+                    ],
+                    [
+                        -96.93472,
+                        32.86997
+                    ],
+                    [
+                        -96.93463,
+                        32.86978
+                    ],
+                    [
+                        -96.93449,
+                        32.86957
+                    ],
+                    [
+                        -96.93434,
+                        32.8694
+                    ],
+                    [
+                        -96.93402,
+                        32.8691
+                    ],
+                    [
+                        -96.93391,
+                        32.86899
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26711,
+                "klass": "Section",
+                "length": 682,
+                "osm_id": 421516570,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":5}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.93391,
+                        32.86899
+                    ],
+                    [
+                        -96.93295,
+                        32.86808
+                    ],
+                    [
+                        -96.93268,
+                        32.8678
+                    ],
+                    [
+                        -96.93239,
+                        32.86757
+                    ],
+                    [
+                        -96.93203,
+                        32.8673
+                    ],
+                    [
+                        -96.9314,
+                        32.86684
+                    ],
+                    [
+                        -96.93109,
+                        32.8666
+                    ],
+                    [
+                        -96.93075,
+                        32.86628
+                    ],
+                    [
+                        -96.93036,
+                        32.86589
+                    ],
+                    [
+                        -96.92993,
+                        32.86539
+                    ],
+                    [
+                        -96.92984,
+                        32.86529
+                    ],
+                    [
+                        -96.92944,
+                        32.86482
+                    ],
+                    [
+                        -96.92921,
+                        32.86451
+                    ],
+                    [
+                        -96.92877,
+                        32.86381
+                    ],
+                    [
+                        -96.92861,
+                        32.86353
+                    ],
+                    [
+                        -96.9285,
+                        32.86336
+                    ],
+                    [
+                        -96.92842,
+                        32.86316
+                    ],
+                    [
+                        -96.92839,
+                        32.86299
+                    ],
+                    [
+                        -96.92838,
+                        32.86282
+                    ],
+                    [
+                        -96.9284,
+                        32.86261
+                    ],
+                    [
+                        -96.92852,
+                        32.86204
+                    ],
+                    [
+                        -96.92854,
+                        32.86186
+                    ],
+                    [
+                        -96.92853,
+                        32.86172
+                    ],
+                    [
+                        -96.9285,
+                        32.86157
+                    ],
+                    [
+                        -96.92845,
+                        32.86145
+                    ],
+                    [
+                        -96.92839,
+                        32.86135
+                    ],
+                    [
+                        -96.92829,
+                        32.8612
+                    ],
+                    [
+                        -96.92823,
+                        32.86109
+                    ],
+                    [
+                        -96.92775,
+                        32.86038
+                    ],
+                    [
+                        -96.92756,
+                        32.86005
+                    ],
+                    [
+                        -96.92749,
+                        32.85992
+                    ],
+                    [
+                        -96.92742,
+                        32.8598
+                    ],
+                    [
+                        -96.92728,
+                        32.85955
+                    ],
+                    [
+                        -96.92722,
+                        32.85946
+                    ],
+                    [
+                        -96.92718,
+                        32.8594
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26710,
+                "klass": "Section",
+                "length": 1282,
+                "osm_id": 202345976,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":7}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.92718,
+                        32.8594
+                    ],
+                    [
+                        -96.92701,
+                        32.8592
+                    ],
+                    [
+                        -96.92686,
+                        32.85901
+                    ],
+                    [
+                        -96.92677,
+                        32.8589
+                    ],
+                    [
+                        -96.92671,
+                        32.85881
+                    ],
+                    [
+                        -96.92668,
+                        32.85877
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26720,
+                "klass": "Section",
+                "length": 84,
+                "osm_id": 202345965,
+                "osm_tags": "{\"bridge\":\"yes\",\"electrified\":\"contact_line\",\"layer\":\"1\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.92668,
+                        32.85877
+                    ],
+                    [
+                        -96.9266,
+                        32.85859
+                    ],
+                    [
+                        -96.92655,
+                        32.85841
+                    ],
+                    [
+                        -96.92653,
+                        32.85826
+                    ],
+                    [
+                        -96.92653,
+                        32.8581
+                    ],
+                    [
+                        -96.92653,
+                        32.85797
+                    ],
+                    [
+                        -96.92666,
+                        32.85623
+                    ],
+                    [
+                        -96.92667,
+                        32.85611
+                    ],
+                    [
+                        -96.92665,
+                        32.85593
+                    ],
+                    [
+                        -96.92662,
+                        32.85576
+                    ],
+                    [
+                        -96.92656,
+                        32.85563
+                    ],
+                    [
+                        -96.9265,
+                        32.85549
+                    ],
+                    [
+                        -96.92644,
+                        32.8554
+                    ],
+                    [
+                        -96.92638,
+                        32.85532
+                    ],
+                    [
+                        -96.92631,
+                        32.85524
+                    ],
+                    [
+                        -96.92622,
+                        32.85515
+                    ],
+                    [
+                        -96.92609,
+                        32.85504
+                    ],
+                    [
+                        -96.92597,
+                        32.85495
+                    ],
+                    [
+                        -96.92584,
+                        32.85487
+                    ],
+                    [
+                        -96.92505,
+                        32.85444
+                    ],
+                    [
+                        -96.92473,
+                        32.85425
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26466,
+                "klass": "Section",
+                "length": 586,
+                "osm_id": 421516577,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.92473,
+                        32.85425
+                    ],
+                    [
+                        -96.92448,
+                        32.85409
+                    ],
+                    [
+                        -96.92379,
+                        32.85359
+                    ],
+                    [
+                        -96.9235,
+                        32.85339
+                    ],
+                    [
+                        -96.92321,
+                        32.85322
+                    ],
+                    [
+                        -96.92298,
+                        32.85308
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26763,
+                "klass": "Section",
+                "length": 209,
+                "osm_id": 446930391,
+                "osm_tags": "{\"bridge\":\"yes\",\"electrified\":\"contact_line\",\"layer\":\"1\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.92298,
+                        32.85308
+                    ],
+                    [
+                        -96.92262,
+                        32.85288
+                    ],
+                    [
+                        -96.92241,
+                        32.85277
+                    ],
+                    [
+                        -96.92109,
+                        32.85204
+                    ],
+                    [
+                        -96.92033,
+                        32.85162
+                    ],
+                    [
+                        -96.92008,
+                        32.85149
+                    ],
+                    [
+                        -96.91951,
+                        32.85122
+                    ],
+                    [
+                        -96.91891,
+                        32.85098
+                    ],
+                    [
+                        -96.91755,
+                        32.85046
+                    ],
+                    [
+                        -96.91726,
+                        32.85033
+                    ],
+                    [
+                        -96.91698,
+                        32.8502
+                    ],
+                    [
+                        -96.91671,
+                        32.85007
+                    ],
+                    [
+                        -96.91642,
+                        32.84992
+                    ],
+                    [
+                        -96.9159,
+                        32.84963
+                    ],
+                    [
+                        -96.91558,
+                        32.84943
+                    ],
+                    [
+                        -96.91547,
+                        32.84936
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26764,
+                "klass": "Section",
+                "length": 818,
+                "osm_id": 446930393,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.91547,
+                        32.84936
+                    ],
+                    [
+                        -96.91439,
+                        32.84872
+                    ],
+                    [
+                        -96.91351,
+                        32.84819
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26762,
+                "klass": "Section",
+                "length": 224,
+                "osm_id": 202345961,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.91351,
+                        32.84819
+                    ],
+                    [
+                        -96.91263,
+                        32.84763
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26766,
+                "klass": "Section",
+                "length": 104,
+                "osm_id": 202345959,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"layer\":\"-1\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\",\"tunnel\":\"yes\"}",
+                "osm_metadata": "{\"version\":2}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.91263,
+                        32.84763
+                    ],
+                    [
+                        -96.91199,
+                        32.84716
+                    ],
+                    [
+                        -96.91089,
+                        32.84625
+                    ],
+                    [
+                        -96.91064,
+                        32.84603
+                    ],
+                    [
+                        -96.91034,
+                        32.84571
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26765,
+                "klass": "Section",
+                "length": 303,
+                "osm_id": 202345958,
+                "osm_tags": "{\"cutting\":\"yes\",\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.91034,
+                        32.84571
+                    ],
+                    [
+                        -96.90964,
+                        32.84494
+                    ],
+                    [
+                        -96.9085,
+                        32.84366
+                    ],
+                    [
+                        -96.90759,
+                        32.84262
+                    ],
+                    [
+                        -96.90683,
+                        32.84177
+                    ],
+                    [
+                        -96.90667,
+                        32.84159
+                    ],
+                    [
+                        -96.9065,
+                        32.84145
+                    ],
+                    [
+                        -96.9063,
+                        32.8413
+                    ],
+                    [
+                        -96.90608,
+                        32.84117
+                    ],
+                    [
+                        -96.90586,
+                        32.84107
+                    ],
+                    [
+                        -96.9056,
+                        32.84097
+                    ],
+                    [
+                        -96.90529,
+                        32.8409
+                    ],
+                    [
+                        -96.90499,
+                        32.84087
+                    ],
+                    [
+                        -96.90461,
+                        32.84088
+                    ],
+                    [
+                        -96.90434,
+                        32.84092
+                    ],
+                    [
+                        -96.90403,
+                        32.84101
+                    ],
+                    [
+                        -96.90378,
+                        32.84111
+                    ],
+                    [
+                        -96.90352,
+                        32.84124
+                    ],
+                    [
+                        -96.90324,
+                        32.84141
+                    ],
+                    [
+                        -96.9029,
+                        32.84163
+                    ],
+                    [
+                        -96.90242,
+                        32.84192
+                    ],
+                    [
+                        -96.90194,
+                        32.84224
+                    ],
+                    [
+                        -96.90149,
+                        32.84256
+                    ],
+                    [
+                        -96.90136,
+                        32.84266
+                    ],
+                    [
+                        -96.90103,
+                        32.84289
+                    ],
+                    [
+                        -96.90013,
+                        32.84356
+                    ],
+                    [
+                        -96.8997,
+                        32.84389
+                    ],
+                    [
+                        -96.89926,
+                        32.84426
+                    ],
+                    [
+                        -96.89873,
+                        32.84469
+                    ],
+                    [
+                        -96.89829,
+                        32.84504
+                    ],
+                    [
+                        -96.89792,
+                        32.84533
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26767,
+                "klass": "Section",
+                "length": 1592,
+                "osm_id": 202345970,
+                "osm_tags": "{\"electrified\":\"contact_line\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":3}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.89792,
+                        32.84533
+                    ],
+                    [
+                        -96.89743,
+                        32.84569
+                    ],
+                    [
+                        -96.89699,
+                        32.84601
+                    ],
+                    [
+                        -96.89661,
+                        32.84629
+                    ],
+                    [
+                        -96.89627,
+                        32.84654
+                    ],
+                    [
+                        -96.89568,
+                        32.84696
+                    ],
+                    [
+                        -96.8953,
+                        32.84724
+                    ],
+                    [
+                        -96.89499,
+                        32.84746
+                    ],
+                    [
+                        -96.89459,
+                        32.84772
+                    ],
+                    [
+                        -96.8943,
+                        32.84791
+                    ],
+                    [
+                        -96.89391,
+                        32.84813
+                    ],
+                    [
+                        -96.89341,
+                        32.84841
+                    ],
+                    [
+                        -96.89257,
+                        32.84888
+                    ],
+                    [
+                        -96.89216,
+                        32.84912
+                    ],
+                    [
+                        -96.89176,
+                        32.84938
+                    ],
+                    [
+                        -96.8911,
+                        32.84985
+                    ],
+                    [
+                        -96.88999,
+                        32.85066
+                    ],
+                    [
+                        -96.88893,
+                        32.85142
+                    ],
+                    [
+                        -96.88831,
+                        32.85189
+                    ],
+                    [
+                        -96.88776,
+                        32.85232
+                    ],
+                    [
+                        -96.88743,
+                        32.85259
+                    ],
+                    [
+                        -96.88714,
+                        32.85286
+                    ],
+                    [
+                        -96.88665,
+                        32.85337
+                    ],
+                    [
+                        -96.88634,
+                        32.85375
+                    ],
+                    [
+                        -96.88597,
+                        32.85419
+                    ],
+                    [
+                        -96.88562,
+                        32.85463
+                    ],
+                    [
+                        -96.8853,
+                        32.85497
+                    ],
+                    [
+                        -96.88502,
+                        32.85524
+                    ],
+                    [
+                        -96.88473,
+                        32.85551
+                    ],
+                    [
+                        -96.88435,
+                        32.85582
+                    ],
+                    [
+                        -96.88389,
+                        32.85616
+                    ],
+                    [
+                        -96.88359,
+                        32.8564
+                    ],
+                    [
+                        -96.88315,
+                        32.85674
+                    ],
+                    [
+                        -96.88265,
+                        32.85715
+                    ],
+                    [
+                        -96.8824,
+                        32.85733
+                    ],
+                    [
+                        -96.8823,
+                        32.85739
+                    ],
+                    [
+                        -96.88219,
+                        32.85745
+                    ],
+                    [
+                        -96.88209,
+                        32.85751
+                    ],
+                    [
+                        -96.88197,
+                        32.85756
+                    ],
+                    [
+                        -96.88186,
+                        32.85761
+                    ],
+                    [
+                        -96.88161,
+                        32.85771
+                    ],
+                    [
+                        -96.88148,
+                        32.85775
+                    ],
+                    [
+                        -96.88134,
+                        32.85779
+                    ],
+                    [
+                        -96.88118,
+                        32.85783
+                    ],
+                    [
+                        -96.88101,
+                        32.85786
+                    ],
+                    [
+                        -96.88053,
+                        32.85795
+                    ],
+                    [
+                        -96.88042,
+                        32.85796
+                    ],
+                    [
+                        -96.88031,
+                        32.85796
+                    ],
+                    [
+                        -96.8802,
+                        32.85796
+                    ],
+                    [
+                        -96.88009,
+                        32.85795
+                    ],
+                    [
+                        -96.87995,
+                        32.85793
+                    ],
+                    [
+                        -96.87981,
+                        32.85791
+                    ],
+                    [
+                        -96.87968,
+                        32.85788
+                    ],
+                    [
+                        -96.87955,
+                        32.85783
+                    ],
+                    [
+                        -96.87942,
+                        32.85778
+                    ],
+                    [
+                        -96.8793,
+                        32.85773
+                    ],
+                    [
+                        -96.87919,
+                        32.85766
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 26768,
+                "klass": "Section",
+                "length": 2303,
+                "osm_id": 202345979,
+                "osm_tags": "{\"bridge\":\"yes\",\"electrified\":\"contact_line\",\"layer\":\"2\",\"name\":\"DART\",\"railway\":\"light_rail\",\"railway:preferred_direction\":\"forward\"}",
+                "osm_metadata": "{\"version\":4}",
+                "opening": 2012,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.87774,
+                        32.85539
+                    ],
+                    [
+                        -96.87754,
+                        32.85479
+                    ],
+                    [
+                        -96.87683,
+                        32.85249
+                    ],
+                    [
+                        -96.87641,
+                        32.85176
+                    ],
+                    [
+                        -96.87496,
+                        32.85027
+                    ],
+                    [
+                        -96.87369,
+                        32.8489
+                    ],
+                    [
+                        -96.87226,
+                        32.84731
+                    ],
+                    [
+                        -96.8707,
+                        32.8463
+                    ],
+                    [
+                        -96.86842,
+                        32.84542
+                    ],
+                    [
+                        -96.86686,
+                        32.84488
+                    ],
+                    [
+                        -96.86523,
+                        32.84435
+                    ],
+                    [
+                        -96.86298,
+                        32.84331
+                    ],
+                    [
+                        -96.86002,
+                        32.84199
+                    ],
+                    [
+                        -96.85592,
+                        32.84019
+                    ],
+                    [
+                        -96.8514,
+                        32.83811
+                    ],
+                    [
+                        -96.84992,
+                        32.83723
+                    ],
+                    [
+                        -96.84884,
+                        32.83624
+                    ],
+                    [
+                        -96.84514,
+                        32.83315
+                    ],
+                    [
+                        -96.84294,
+                        32.83127
+                    ],
+                    [
+                        -96.84084,
+                        32.82932
+                    ],
+                    [
+                        -96.83932,
+                        32.82804
+                    ],
+                    [
+                        -96.8384,
+                        32.82728
+                    ],
+                    [
+                        -96.83453,
+                        32.82423
+                    ],
+                    [
+                        -96.83403,
+                        32.82374
+                    ],
+                    [
+                        -96.8336,
+                        32.82281
+                    ],
+                    [
+                        -96.83307,
+                        32.8215
+                    ],
+                    [
+                        -96.83275,
+                        32.82014
+                    ],
+                    [
+                        -96.83303,
+                        32.81845
+                    ],
+                    [
+                        -96.83338,
+                        32.81602
+                    ],
+                    [
+                        -96.83339,
+                        32.81467
+                    ],
+                    [
+                        -96.83315,
+                        32.81318
+                    ],
+                    [
+                        -96.83276,
+                        32.81169
+                    ],
+                    [
+                        -96.83199,
+                        32.81025
+                    ],
+                    [
+                        -96.83117,
+                        32.80912
+                    ],
+                    [
+                        -96.83076,
+                        32.80867
+                    ],
+                    [
+                        -96.82933,
+                        32.80739
+                    ],
+                    [
+                        -96.82773,
+                        32.80596
+                    ],
+                    [
+                        -96.82689,
+                        32.8053
+                    ],
+                    [
+                        -96.82595,
+                        32.80494
+                    ],
+                    [
+                        -96.8236,
+                        32.80456
+                    ],
+                    [
+                        -96.8223,
+                        32.80435
+                    ],
+                    [
+                        -96.82141,
+                        32.80413
+                    ],
+                    [
+                        -96.8201,
+                        32.80348
+                    ],
+                    [
+                        -96.81932,
+                        32.80275
+                    ],
+                    [
+                        -96.81742,
+                        32.8003
+                    ],
+                    [
+                        -96.81577,
+                        32.79808
+                    ],
+                    [
+                        -96.81453,
+                        32.79615
+                    ],
+                    [
+                        -96.81417,
+                        32.79555
+                    ],
+                    [
+                        -96.81378,
+                        32.79392
+                    ],
+                    [
+                        -96.81286,
+                        32.79074
+                    ],
+                    [
+                        -96.8127,
+                        32.79022
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5518,
+                "klass": "Section",
+                "length": 10133,
+                "opening": 2010,
+                "buildstart": 2010,
+                "closure": 999999,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Green Line",
+                        "line_url_name": "890-green-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.8127,
+                        32.79022
+                    ],
+                    [
+                        -96.81178,
+                        32.78724
+                    ],
+                    [
+                        -96.81134,
+                        32.7858
+                    ],
+                    [
+                        -96.81071,
+                        32.78413
+                    ],
+                    [
+                        -96.8106,
+                        32.78383
+                    ],
+                    [
+                        -96.80956,
+                        32.78098
+                    ],
+                    [
+                        -96.80944,
+                        32.78062
+                    ],
+                    [
+                        -96.80923,
+                        32.78045
+                    ],
+                    [
+                        -96.80889,
+                        32.78042
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5522,
+                "klass": "Section",
+                "length": 1168,
+                "opening": 2009,
+                "buildstart": 2009,
+                "closure": 999999,
+                "lines": [
+                    {
+                        "line": "Green Line",
+                        "line_url_name": "890-green-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.80889,
+                        32.78042
+                    ],
+                    [
+                        -96.80882,
+                        32.78042
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5521,
+                "klass": "Section",
+                "length": 6,
+                "opening": 2009,
+                "buildstart": 2009,
+                "closure": 999999,
+                "lines": [
+                    {
+                        "line": "Green Line",
+                        "line_url_name": "890-green-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.80857,
+                        32.7804
+                    ],
+                    [
+                        -96.80854,
+                        32.7804
+                    ],
+                    [
+                        -96.80804,
+                        32.78038
+                    ],
+                    [
+                        -96.80587,
+                        32.78083
+                    ],
+                    [
+                        -96.80463,
+                        32.78108
+                    ],
+                    [
+                        -96.80348,
+                        32.78124
+                    ],
+                    [
+                        -96.80157,
+                        32.78175
+                    ],
+                    [
+                        -96.80027,
+                        32.78201
+                    ],
+                    [
+                        -96.79966,
+                        32.78214
+                    ],
+                    [
+                        -96.79841,
+                        32.78316
+                    ],
+                    [
+                        -96.79694,
+                        32.78438
+                    ],
+                    [
+                        -96.79408,
+                        32.78681
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5524,
+                "klass": "Section",
+                "length": 1595,
+                "opening": 1996,
+                "buildstart": 1990,
+                "closure": 999999,
+                "lines": [
+                    {
+                        "line": "Red Line",
+                        "line_url_name": "888-red-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Blue Line",
+                        "line_url_name": "889-blue-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Green Line",
+                        "line_url_name": "890-green-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -96.79408,
+                        32.78681
+                    ],
+                    [
+                        -96.79355,
+                        32.78729
+                    ],
+                    [
+                        -96.79297,
+                        32.78804
+                    ],
+                    [
+                        -96.79237,
+                        32.7894
+                    ],
+                    [
+                        -96.79223,
+                        32.79123
+                    ],
+                    [
+                        -96.79246,
+                        32.7927
+                    ],
+                    [
+                        -96.79285,
+                        32.79596
+                    ],
+                    [
+                        -96.79305,
+                        32.7994
+                    ],
+                    [
+                        -96.79309,
+                        32.80188
+                    ],
+                    [
+                        -96.79319,
+                        32.80417
+                    ],
+                    [
+                        -96.79329,
+                        32.80551
+                    ],
+                    [
+                        -96.79325,
+                        32.80694
+                    ],
+                    [
+                        -96.79291,
+                        32.8087
+                    ],
+                    [
+                        -96.7922,
+                        32.81026
+                    ],
+                    [
+                        -96.79122,
+                        32.81212
+                    ],
+                    [
+                        -96.79,
+                        32.81447
+                    ],
+                    [
+                        -96.78944,
+                        32.8156
+                    ],
+                    [
+                        -96.7881,
+                        32.81808
+                    ],
+                    [
+                        -96.78668,
+                        32.82063
+                    ],
+                    [
+                        -96.78547,
+                        32.82301
+                    ],
+                    [
+                        -96.78447,
+                        32.82486
+                    ],
+                    [
+                        -96.78285,
+                        32.8285
+                    ],
+                    [
+                        -96.78089,
+                        32.83152
+                    ],
+                    [
+                        -96.78008,
+                        32.83395
+                    ],
+                    [
+                        -96.77927,
+                        32.83592
+                    ],
+                    [
+                        -96.77867,
+                        32.83663
+                    ],
+                    [
+                        -96.77527,
+                        32.83807
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4957,
+                "klass": "Section",
+                "length": 6217,
+                "opening": 1997,
+                "buildstart": 1989,
+                "closure": 999999,
+                "lines": [
+                    {
+                        "line": "Orange Line",
+                        "line_url_name": "964-orange-line",
+                        "system": "DART Light Rail"
+                    },
+                    {
+                        "line": "Blue Line",
+                        "line_url_name": "889-blue-line",
+                        "system": "DART Light Rail"
+                    }
+                ]
+            }
+        }
+    ]
+}
